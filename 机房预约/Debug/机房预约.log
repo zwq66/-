@@ -1,0 +1,7 @@
+﻿  orderFile.cpp
+  student.cpp
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\student.cpp(76,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\student.cpp(238,29): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约.vcxproj -> C:\Users\yby\OneDrive\桌面\C++\机房预约\Debug\机房预约.exe

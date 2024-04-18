@@ -1,0 +1,12 @@
+﻿  orderFile.cpp
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\orderFile.cpp(35,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\orderFile.cpp(47,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\orderFile.cpp(56,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\orderFile.cpp(64,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\orderFile.cpp(72,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yby\OneDrive\桌面\C++\机房预约\机房预约\orderFile.cpp(80,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 730 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  机房预约.vcxproj -> C:\Users\yby\OneDrive\桌面\C++\机房预约\x64\Release\机房预约.exe
